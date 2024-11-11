@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#107dac"              # Color primario (botones, enlaces activos)
+backgroundColor="#151515"            # Color de fondo principal
+secondaryBackgroundColor="107dac"   # Color de fondo secundario (paneles, barras laterales) "#414c6b"
+textColor="#FFFFFF"                  # Color del texto
+font="sans serif" 
