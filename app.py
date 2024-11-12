@@ -16,10 +16,6 @@ st.markdown(
         display: None
     }
 
-    [data-testid="stAppViewBlockContainer"] {
-        background: #1c1c1c;
-    }
-
     [data-testid="stHeader"] {
         background-color: rgba(0,0,0,0);
     } 
